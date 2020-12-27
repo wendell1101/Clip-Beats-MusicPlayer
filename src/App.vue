@@ -207,7 +207,7 @@ li:hover{
 footer{
   text-align: center;
   font-size: .9rem;
-  margin-top:.5rem;
+  margin-top:1rem;
 }
 
 </style>
