@@ -1,4 +1,4 @@
-# music_playlist
+# Clip-Beats
 
 ## Project setup
 ```
